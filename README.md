@@ -20,6 +20,7 @@ JavaScript (Vanilla) – API integration and DOM manipulation
 OpenWeatherMap API – Real-time weather data
 
 📸 Preview
+
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/c6081c01-3011-4e9c-8119-800d4c774232" />
 
 
@@ -56,6 +57,8 @@ WEATHER/
 ├── style.css       # Stylesheet
 ├── script.js       # JavaScript logic
 └── README.md       # Project documentation
+
+
 🧠 Credits
 Developed by W-h-i-t-e-d-e-v-i-l
-Credits: This project was inspired by Devression on YouTube.
+This project was inspired by Devression on YouTube.
