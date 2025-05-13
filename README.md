@@ -59,6 +59,6 @@ WEATHER/
 └── README.md       # Project documentation
 
 
-🧠 Credits
-Developed by W-h-i-t-e-d-e-v-i-l
+🧠 Credits:-
+Developed by W-h-i-t-e-d-e-v-i-l.
 This project was inspired by Devression on YouTube.
